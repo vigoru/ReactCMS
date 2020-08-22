@@ -19,8 +19,8 @@ Utilizando tecnologias como Nodejs, React, Javascript, MySQL/MariaDB e conceito 
 
 ### Etapas do Projeto
 
-- [ ] Definição de tecnologias a serem usadas
-- [ ] Criação de reposiório
+- [x] Definição de tecnologias a serem usadas
+- [x] Criação de reposiório
 - [ ] Modelagem e Criação de BD
 - [ ] Criação de painel administrativo de conteúdo
   - [ ] Login
