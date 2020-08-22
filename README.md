@@ -2,7 +2,7 @@
 
 ### O que é CMS?
 
-CMS é uam sigla para *C*ontent *M*anagement *S*ystem ou Sistema de Genrenciamento de Conteúdo.
+CMS é uma sigla para *C*ontent *M*anagement *S*ystem ou Sistema de Genrenciamento de Conteúdo.
 Um exemplo do que se trata esse ssitema são o Blogger e Wordpress.
 
 ### Desafio
