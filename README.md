@@ -15,23 +15,23 @@ Aprendizagem, curiosidade, imersão em nova tecnologia, possibilidades, autoreal
 
 ### Como será feito?
 
-Utilizando tecnologias como Nodejs, React, Javascript, MariaDB e conceito de HeadlessCMS
+Utilizando tecnologias como Nodejs, React, Javascript, MySQL/MariaDB e conceito de HeadlessCMS
 
 ### Etapas do Projeto
 
--[] Definição de tecnologias a serem usadas;
--[] Criação de reposiório;
--[] Modelagem e Criação de BD;
--[] Criação de painel administrativo de conteúdo;
--[] Login;
--[] Gestão de Postagens;
--[] Gestão de Usuários;
--[] Gestão de Recursos;
--[] Gestão de Acessos;
--[] Layout;
--[] Criação de interface de conteúdos;
--[] Ferramentas de buscas;
--[] Ferramentas de email;
--[] Ferramentas de links externos;
--[] Otimização de Recursos;
--[] Layout;
+  -[ ] Definição de tecnologias a serem usadas
+  -[ ] Criação de reposiório
+  -[ ] Modelagem e Criação de BD
+  -[ ] Criação de painel administrativo de conteúdo
+  -[ ] Login
+  -[ ] Gestão de Postagens
+  -[ ] Gestão de Usuários
+  -[ ] Gestão de Recursos
+  -[ ] Gestão de Acessos
+  -[ ] Layout
+  -[ ] Criação de interface de conteúdos
+  -[ ] Ferramentas de buscas
+  -[ ] Ferramentas de email
+  -[ ] Ferramentas de links externos
+  -[ ] Otimização de Recursos
+  -[ ] Layout
